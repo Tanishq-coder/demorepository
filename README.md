@@ -1,4 +1,4 @@
 # demo-repository
 this is my 1st repository
 <br>
-Author- Tanishq Halder
+Author- Tanishq (1st one to be the best)
